@@ -1,5 +1,5 @@
 # Odin Recipes
-First project from Odin Project. this is a simple HTML project, adding a picture headings and text to describe a recipe.
-Skills used: HTML, CSS... 
-Building a quick and simple website about recipes using Semantic HTML and CSS... 
-CSS only using flexbox and a universal selector to see the outlines of borders to help fix spacing and overflowing borders.
+First project from The Odin Project. this is a simple HTML project, The task is to build a recipes HTML and CSS
+
+Skills used: HTML, CSS
+using universal selector to see the outlines of borders to help fix spacing and overflowing borders. (*)
